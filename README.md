@@ -1,7 +1,7 @@
 # HelloWorldGoServer
 GO + Docker + unit tests<br>
 <br>
-Testing PR with trigger event type
+Testing payload trigger
 
 ## Running the app locally
 
