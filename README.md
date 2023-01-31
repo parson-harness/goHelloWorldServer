@@ -1,7 +1,7 @@
 # HelloWorldGoServer
 GO + Docker + unit tests<br>
 <br>
-Testing payload trigger with JEXL conditions. 
+Hey Testing payload trigger with JEXL conditions. 
 
 ## Running the app locally
 
