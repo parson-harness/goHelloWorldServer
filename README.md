@@ -1,7 +1,7 @@
 # HelloWorldGoServer
 GO + Docker + unit tests<br>
 <br>
-Testing payload trigger
+Testing payload trigger that should build
 
 ## Running the app locally
 
