@@ -1,7 +1,7 @@
 # HelloWorldGoServer
 GO + Docker + unit tests<br>
 <br>
-Testing payload trigger should not build
+Testing payload trigger with JEXL conditions. Should not build.
 
 ## Running the app locally
 
